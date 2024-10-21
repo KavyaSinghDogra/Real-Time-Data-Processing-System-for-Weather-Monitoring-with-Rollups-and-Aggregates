@@ -6,5 +6,5 @@ This project is a real-time data processing system that monitors weather conditi
 Install the required libraries:
    ```bash
    pip install -r requirements.txt
-
+```bash
 Run main.py for execution
