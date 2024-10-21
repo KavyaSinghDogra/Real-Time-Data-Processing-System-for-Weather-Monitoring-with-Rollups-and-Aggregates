@@ -3,7 +3,8 @@
 This project is a real-time data processing system that monitors weather conditions using the OpenWeatherMap API and provides summarized insights using rollups and aggregates.
 
 ## Setup Instructions
-1. Install the required libraries:
+Install the required libraries:
    ```bash
    pip install -r requirements.txt
 
+Run main.py for execution
